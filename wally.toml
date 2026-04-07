@@ -1,0 +1,12 @@
+[package]
+name = "vynx777/networker"
+description = "Namespace-based networking layer for Roblox. Routes all communication via dispatch tables, eliminating stacked connections."
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+authors = ["vynx777"]
+license = "MIT"
+exclude = ["rokit.toml", "README.md", "default.project.json", ".gitignore", "wally.lock"]
+
+[dependencies]
+Promise = "evaera/promise@4.0.0"
