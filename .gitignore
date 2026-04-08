@@ -1,11 +1,3 @@
-# Project place file
-/Networker.rbxlx
-
-# Roblox Studio lock files
-/*.rbxlx.lock
-/*.rbxl.lock
-
+build/
 Packages/
-wally.lock
-
-sourcemap.json
+src/wally.lock

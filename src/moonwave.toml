@@ -1,0 +1,21 @@
+title = "networker"  # From Git
+gitRepoUrl = "https://github.com/Vynx777/networker" # From Git
+
+gitSourceBranch = "master"
+changelog = true
+classOrder = []
+
+[docusaurus]
+onBrokenLinks = "throw"
+onBrokenMarkdownLinks = "warn"
+
+# From git:
+organizationName = "Vynx777" # From Git
+projectName = "s" # From Git
+url = "https://AuthorName.github.io"
+baseUrl = "/networker"
+tagline = "Your project's tagline"
+
+[footer]
+style = "dark"
+copyright = "Copyright © 2026 Vynx777."
