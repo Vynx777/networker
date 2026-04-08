@@ -1,10 +1,13 @@
 # 📡 Networker
 
-[![Wally](https://img.shields.io/badge/Wally-1.0.0-blue)](https://wally.run/)
+[![Wally](https://img.shields.io/badge/Wally-1.0.7-blue)](https://wally.run/)
 [![Luau](https://img.shields.io/badge/Luau-Strict-orange)](https://luau-lang.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Docs](https://img.shields.io/badge/Docs-Moonwave-purple)](https://vynx777.github.io/networker/)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/vynx777/networker/blob/main/LICENSE)
 
 **Networker** is a strictly typed (Strict Luau), action-based networking framework for the Roblox platform. It provides secure Client-Server communication with built-in support for Promises, timeouts, and automatic retry attempts.
+
+> 📖 **[Read the official Documentation & API Reference here!](https://vynx777.github.io/networker/)**
 
 ---
 
@@ -24,7 +27,7 @@ Add Networker to your `wally.toml` file:
 
 ```toml
 [dependencies]
-Networker = "vynx777/networker@1.0.0"
+Networker = "vynx777/networker@1.0.7"
 ```
 
 Then, install the package:
@@ -77,11 +80,11 @@ local stats = PlayerNet:request("GetStats", { options = { timeout = 5 } })
 
 ## 📚 API Documentation
 
-Networker features comprehensive documentation in the Moonwave standard. To preview it locally while developing the package, use:
+Networker features comprehensive documentation generated using Moonwave. 
 
-```bash
-moonwave dev
-```
+**👉 [Visit the Networker Documentation](https://vynx777.github.io/networker/)** for the full API reference, advanced guides, and exact type definitions.
+
+*(For contributors: If you are making changes to the source code and want to preview the documentation locally, run `moonwave dev` in the root directory).*
 
 ---
 
