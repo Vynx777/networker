@@ -11,8 +11,8 @@ onBrokenMarkdownLinks = "warn"
 
 # From git:
 organizationName = "Vynx777" # From Git
-projectName = "s" # From Git
-url = "https://AuthorName.github.io"
+projectName = "networker" # From Git
+url = "https://Vynx777.github.io"
 baseUrl = "/networker"
 tagline = "Your project's tagline"
 
