@@ -1,3 +1,5 @@
 build/
 Packages/
-src/wally.lock
+wally.lock
+
+sourcemap.json

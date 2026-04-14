@@ -1,7 +1,7 @@
 [package]
 name = "vynx777/networker"
 description = "Namespace-based networking layer for Roblox. Routes all communication via dispatch tables, eliminating stacked connections."
-version = "1.0.7"
+version = "1.0.8"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 authors = ["vynx777"]
